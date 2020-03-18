@@ -1,0 +1,17 @@
+.bg{
+    height: 500px;
+    background-image: url(coronavirus.jpg);
+    background-size: cover;
+}
+.h{
+    color:#0c4790;
+}
+.hh{
+    color: red;
+}
+.p{
+    font-size: large;
+}
+.hr{
+    border: 1px solid ;
+}
